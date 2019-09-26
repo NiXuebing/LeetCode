@@ -75,4 +75,4 @@ fabric.properties
 .gitignore
 .idea/
 LeetCode.iml
-leet-code/src/
+leet-code/leet-code.iml
