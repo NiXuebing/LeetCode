@@ -76,3 +76,7 @@ fabric.properties
 .idea/
 LeetCode.iml
 leet-code/leet-code.iml
+
+.settings
+.classpath
+.project
